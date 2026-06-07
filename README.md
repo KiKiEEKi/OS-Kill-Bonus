@@ -16,4 +16,4 @@
 }
 ```
 Установка:
-- Закинуть папку <OSKillBonus> в папку </csgo/addons/counterstrikesharp/plugins/>
+- Закинуть папку OSKillBonus в папку ../csgo/addons/counterstrikesharp/plugins/
