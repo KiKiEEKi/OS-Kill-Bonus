@@ -17,3 +17,5 @@
 ```
 Установка:
 - Закинуть папку OSKillBonus в папку ../csgo/addons/counterstrikesharp/plugins/
+
+DS - https://discord.gg/Bbhy8ZsE6F VK - https://vk.com/kikieeki
